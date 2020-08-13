@@ -1,4 +1,10 @@
-.user-component,
+.user-component {
+  justify-content: space-between;
+}
+.user-component {
+  display: flex;
+  align-items: center;
+}
 .user-component_column:first-child {
   display: flex;
   align-items: center;
